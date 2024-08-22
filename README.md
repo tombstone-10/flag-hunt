@@ -19,7 +19,7 @@ This repository contains a Node.js script that automates the process of uncoveri
 - Clone this repository:
 > git clone https://github.com/tombstone-10/flag-hunt.git
 
-- Navigate to the project directory
+- Navigate to the project directory.
   
 - Run the script:
 > node catchFlag.js
